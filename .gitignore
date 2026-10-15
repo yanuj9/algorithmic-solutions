@@ -1,0 +1,16 @@
+# Ignore compiled binaries and executables
+*.bin
+*.exe
+*.out
+*.o
+*.pch
+
+# Ignore CPH test cases in root and all contest subfolders
+**/.cph/
+
+# Ignore local VS Code settings
+.vscode/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db

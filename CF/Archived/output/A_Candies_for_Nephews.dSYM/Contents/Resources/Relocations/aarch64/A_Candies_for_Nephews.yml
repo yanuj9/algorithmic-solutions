@@ -1,0 +1,23 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/anujyadav/Desktop/CP/output/A_Candies_for_Nephews'
+relocations:
+  - { offset: 0x15E9B, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x61E73, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x15FA9, size: 0x8, addend: 0x0, symName: __ZL3INF, symObjAddr: 0x2E8, symBinAddr: 0x100000A90, symSize: 0x0 }
+  - { offset: 0x15FBF, size: 0x8, addend: 0x0, symName: __ZL3MOD, symObjAddr: 0x2F0, symBinAddr: 0x100000A98, symSize: 0x0 }
+  - { offset: 0x15FD5, size: 0x8, addend: 0x0, symName: __ZL4MAXN, symObjAddr: 0x2F8, symBinAddr: 0x100000AA0, symSize: 0x0 }
+  - { offset: 0x15FFC, size: 0x8, addend: 0x0, symName: __ZL2dx, symObjAddr: 0x2FC, symBinAddr: 0x100000AA4, symSize: 0x0 }
+  - { offset: 0x16012, size: 0x8, addend: 0x0, symName: __ZL2dy, symObjAddr: 0x30C, symBinAddr: 0x100000AB4, symSize: 0x0 }
+  - { offset: 0x1602D, size: 0x8, addend: 0x0, symName: _desc, symObjAddr: 0x61E74, symBinAddr: 0x100008001, symSize: 0x0 }
+  - { offset: 0x16161, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_A_Candies_for_Nephews.cpp, symObjAddr: 0x358, symBinAddr: 0x100000A14, symSize: 0x14 }
+  - { offset: 0x16178, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x31C, symBinAddr: 0x1000009D8, symSize: 0x3C }
+  - { offset: 0x16196, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x270, symBinAddr: 0x100000960, symSize: 0x78 }
+  - { offset: 0x161E5, size: 0x8, addend: 0x0, symName: __Z5solvev, symObjAddr: 0x200, symBinAddr: 0x1000008F0, symSize: 0x70 }
+  - { offset: 0x16217, size: 0x8, addend: 0x0, symName: __Z7mod_invxx, symObjAddr: 0x1D0, symBinAddr: 0x1000008C0, symSize: 0x30 }
+  - { offset: 0x16258, size: 0x8, addend: 0x0, symName: __Z7mod_powxxx, symObjAddr: 0x138, symBinAddr: 0x100000828, symSize: 0x98 }
+  - { offset: 0x162B7, size: 0x8, addend: 0x0, symName: __Z7mod_mulxxx, symObjAddr: 0x100, symBinAddr: 0x1000007F0, symSize: 0x38 }
+  - { offset: 0x16307, size: 0x8, addend: 0x0, symName: __Z7mod_subxxx, symObjAddr: 0xC0, symBinAddr: 0x1000007B0, symSize: 0x40 }
+  - { offset: 0x16357, size: 0x8, addend: 0x0, symName: __Z7mod_addxxx, symObjAddr: 0x88, symBinAddr: 0x100000778, symSize: 0x38 }
+  - { offset: 0x163A7, size: 0x8, addend: 0x0, symName: __Z3lcmxx, symObjAddr: 0x50, symBinAddr: 0x100000740, symSize: 0x38 }
+  - { offset: 0x163E8, size: 0x8, addend: 0x0, symName: __Z3gcdxx, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x50 }
+...
