@@ -138,8 +138,6 @@ void solve() {
         ll b,d; cin>>b>>d;
         v[b] = max(v[b], d);
     }
-
-    ll ans = 0;
     cout<<SUM(v);
 }
 
